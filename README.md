@@ -12,3 +12,6 @@ Juntos eles formam uma maneira poderosa e estruturada de colaboração entre equ
  - Git add: Para adicionar as modificações de um arquivo
  - Git commit: Para indicar que há modificações salvas localmete esperando para serem armazenadas remotamente do GitHub
  - Git push: Para enviar as modificações para o GitHub
+ - Git log: Para saber  histrico de commits
+ - Git Status: Para saber a situação atual do arquivo
+ 
